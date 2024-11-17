@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 1\The change\bin\Debug\The change.exe.config
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 1\The change\bin\Debug\The change.exe
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 1\The change\bin\Debug\The change.pdb
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 1\The change\obj\Debug\The change.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 1\The change\obj\Debug\The change.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 1\The change\obj\Debug\The change.exe
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 1\The change\obj\Debug\The change.pdb

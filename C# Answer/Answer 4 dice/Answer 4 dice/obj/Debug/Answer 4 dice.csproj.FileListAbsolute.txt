@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Answer 4 dice\Answer 4 dice\bin\Debug\Answer 4 dice.exe.config
+C:\Users\PC\source\repos\Answer 4 dice\Answer 4 dice\bin\Debug\Answer 4 dice.exe
+C:\Users\PC\source\repos\Answer 4 dice\Answer 4 dice\bin\Debug\Answer 4 dice.pdb
+C:\Users\PC\source\repos\Answer 4 dice\Answer 4 dice\obj\Debug\Answer 4 dice.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Answer 4 dice\Answer 4 dice\obj\Debug\Answer 4 dice.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Answer 4 dice\Answer 4 dice\obj\Debug\Answer 4 dice.exe
+C:\Users\PC\source\repos\Answer 4 dice\Answer 4 dice\obj\Debug\Answer 4 dice.pdb

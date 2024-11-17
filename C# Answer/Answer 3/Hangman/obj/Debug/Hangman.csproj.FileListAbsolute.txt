@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 3\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 3\Hangman\bin\Debug\Hangman.exe
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 3\Hangman\bin\Debug\Hangman.pdb
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 3\Hangman\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 3\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 3\Hangman\obj\Debug\Hangman.exe
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 3\Hangman\obj\Debug\Hangman.pdb

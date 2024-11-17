@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 4\simulation\bin\Debug\simulation.exe.config
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 4\simulation\bin\Debug\simulation.exe
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 4\simulation\bin\Debug\simulation.pdb
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 4\simulation\obj\Debug\simulation.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 4\simulation\obj\Debug\simulation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 4\simulation\obj\Debug\simulation.exe
+C:\Users\PC\Desktop\coding\ฝึกงาน\บฝ.C#\C# Answer\Answer 4\simulation\obj\Debug\simulation.pdb
